@@ -11,7 +11,7 @@ EcoPredict focuses on three different machine learning architectures:
 - **Federated Learning**: Data remains on local RSUs, with only model updates sent to the server, enhancing privacy.
 - **Split Learning**: The model is split between the RSUs and the central server, balancing computation and communication.
 
-![EcoPredict Framework](imgs/EcoPredict.pdf)
+![](imgs/ecopredict.png)
 
 ## Features
 
