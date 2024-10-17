@@ -113,7 +113,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     rsu_id = sys.argv[1]
-    folder_path = '/home/carnot/hiaac/data/most/rsus_most_csv/'
+    folder_path = 'File/Path/To/RSU/Data'
     file_path = os.path.join(folder_path, f'RSU_{rsu_id}.csv')
 
     data = load_and_aggregate_data(file_path)
