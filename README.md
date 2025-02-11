@@ -2,7 +2,7 @@
 
 EcoPredict is a framework designed to predict CO2 emissions in vehicular networks using **Centralized**, **Federated**, and **Split Learning** techniques. It processes data from Roadside Units (RSUs) to create models that help reduce emissions in urban environments.
 
-This project generated a research paper titled "EcoPredict: Assessing Distributed Machine Learning Methods for Predicting Urban Emissions," which has been accepted for publication at the **IEEE VTC 2024**.
+This project generated a research paper titled ["EcoPredict: Assessing Distributed Machine Learning Methods for Predicting Urban Emissions"](https://ieeexplore.ieee.org/document/10757672 '"EcoPredict: Assessing Distributed Machine Learning Methods for Predicting Urban Emissions"'), which was published at the **IEEE VTC 2024**.
 
 ## Overview
 
